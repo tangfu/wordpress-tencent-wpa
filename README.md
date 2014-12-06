@@ -4,6 +4,7 @@ wordpress-tencent-wpa
 wordpress plugin about tencent wpa(temporary chat)
 
 
+
 === Wordpress Tencent WPA ===
 Contributors: tangfu
 blog: http://www.rainhome.org
@@ -23,7 +24,7 @@ Stable tag: 1.0.2
 1. 上传 `wordpress-tencent-wpa`插件到 `/wp-content/plugins/` 目录
 2. 在Wordpress后台控制面板"插件(Plugins)"菜单下激活"wordpress-tencent-wpa"
 3. 在Wordpress后台控制面板"外观(Appearance)->小工具(Widgets)"下使用`腾讯WPA`
-4. 首次使用需激活API，点击后前往 http://wp.qq.com获取,登录一次即可。
+4. 首次使用需激活API，点击后前往 http://shang.qq.com/v3/widget.html 获取,登录一次即可。
 5. 将得到的IDKEY值填写到插件后台即可
 
 == Changelog ==
